@@ -128,6 +128,11 @@ php artisan route:list --name=kaizen
 composer test
 ```
 
+## Preview
+
+![Dashboard](https://i.imgur.com/6z2wEVI.png)
+![Login](https://i.imgur.com/rD0x4pY.png)
+
 ## License
 
 MIT
